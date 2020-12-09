@@ -1,2 +1,3 @@
-# movie-recommendations
-Created with CodeSandbox
+# Movie Recommendations
+
+Movie Recommendations React App
